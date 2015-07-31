@@ -1,0 +1,11 @@
+\\psf\Google Drive\College Work\3rd Term\Server Side Scripting\week_12\comp2084-lesson12\comp2084-lesson12\bin\comp2084-lesson5.dll.config
+\\psf\Google Drive\College Work\3rd Term\Server Side Scripting\week_12\comp2084-lesson12\comp2084-lesson12\bin\comp2084-lesson5.dll
+\\psf\Google Drive\College Work\3rd Term\Server Side Scripting\week_12\comp2084-lesson12\comp2084-lesson12\bin\comp2084-lesson5.pdb
+\\psf\Google Drive\College Work\3rd Term\Server Side Scripting\week_12\comp2084-lesson12\comp2084-lesson12\bin\EntityFramework.dll
+\\psf\Google Drive\College Work\3rd Term\Server Side Scripting\week_12\comp2084-lesson12\comp2084-lesson12\bin\EntityFramework.SqlServer.dll
+\\psf\Google Drive\College Work\3rd Term\Server Side Scripting\week_12\comp2084-lesson12\comp2084-lesson12\bin\EntityFramework.xml
+\\psf\Google Drive\College Work\3rd Term\Server Side Scripting\week_12\comp2084-lesson12\comp2084-lesson12\bin\EntityFramework.SqlServer.xml
+\\psf\Google Drive\College Work\3rd Term\Server Side Scripting\week_12\comp2084-lesson12\comp2084-lesson12\obj\Debug\comp2084-lesson12.csprojResolveAssemblyReference.cache
+\\psf\Google Drive\College Work\3rd Term\Server Side Scripting\week_12\comp2084-lesson12\comp2084-lesson12\obj\Debug\comp2084-lesson5.dll
+\\psf\Google Drive\College Work\3rd Term\Server Side Scripting\week_12\comp2084-lesson12\comp2084-lesson12\obj\Debug\comp2084-lesson5.pdb
+\\psf\Google Drive\College Work\3rd Term\Server Side Scripting\week_12\comp2084-lesson12\comp2084-lesson12\bin\Elmah.dll
